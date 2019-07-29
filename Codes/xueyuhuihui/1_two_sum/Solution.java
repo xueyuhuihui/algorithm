@@ -2,11 +2,14 @@
 class Solution {
 
     /**
+     * twoSum
      *
      * 执行结果：     通过
      * 显示详情
      * 执行用时 :     10 ms
      * 内存消耗 :     39.4 MB
+     * owner remark: 带改进
+     * friends remark：
      * @param nums
      * @param target
      * @return
@@ -35,6 +38,8 @@ class Solution {
         System.out.print("no_found");
         return null;
     }
+
+
 
 
 }
