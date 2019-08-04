@@ -8,7 +8,7 @@ class Solution {
      * 显示详情
      * 执行用时 :     10 ms
      * 内存消耗 :     39.4 MB
-     * owner remark: 带改进
+     * owner remark: 待改进
      * friends remark：
      * @param nums
      * @param target
